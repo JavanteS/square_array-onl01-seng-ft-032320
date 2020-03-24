@@ -1,6 +1,6 @@
 def square_array(array)
-  
- array.each do |product|
+ numbers = [1,2,3] 
+ numbers.each do |product|
   product**2
  end 
 end
