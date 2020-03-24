@@ -3,4 +3,5 @@ def square_array(array)
  array.each do |product| new_array.push
   (product**2)
             end
+new_array
 end
